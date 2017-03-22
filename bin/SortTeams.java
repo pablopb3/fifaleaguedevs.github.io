@@ -11,7 +11,7 @@ public class SortTeams {
 
 		for(String player : players){
 			int randomNum = ThreadLocalRandom.current().nextInt(0, teams.size());
-			System.out.println("Player " + player + " tiene el equipo " + teams.get(randomNum));
+			System.out.println("Player " + player + " will play with " + teams.get(randomNum));
 			teams.remove(randomNum);
 		}
 	}
