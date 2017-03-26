@@ -1,0 +1,54 @@
+[
+  {
+    "team": "Sevilla CF",
+    "number" : "0"
+  },
+  {
+    "team": "FC Barcelona",
+    "number" : "1"
+  },
+  {
+    "team": "Real Madrid CF",
+    "number" : "2"
+  },
+  {
+    "team": "Atlético de Madrid",
+    "number" : "3"
+  },
+  {
+    "team": "Arsenal FC",
+    "number" : "4"
+  },
+  {
+    "team": "Chelsea FC",
+    "number" : "5"
+  },
+  {
+    "team": "Liverpool FC",
+    "number" : "6"
+  },
+  {
+    "team": "Manchester United FC",
+    "number" : "7"
+  },
+  {
+    "team": "Manchester City FC",
+    "number" : "8"
+  },     
+  {
+    "team": "Juventus FC",
+    "number" : "9"
+  },
+  {
+    "team": "Paris Saint-Germain FC",
+    "number" : "10"
+  },     
+  {
+    "team": "FC Bayern",
+    "number" : "11"
+  },
+  {
+    "team": "BV Borussia",
+    "number" : "12"
+  }    
+]
