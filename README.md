@@ -20,9 +20,17 @@ Simply follow the next steps and enjoy! :checkered_flag:
 2. Open a pull request to merge your user in the players list
 
 ## Select your team
+1. Check teams in _data/teams.json
+2. Change your _data/players.json player adding your team preferences (select only 10 teams please)
 ```
-TODO
+{
+    "name": "your_name",
+    "github": "your_github_user",
+    "psn": "your_psn_user",
+    "teamPreferences" : [your 10 teams separated by commas]
+  }
 ```
+3. Open a pull request to merge your preferences in the players list
 
 ## Update match results
 ```
