@@ -5,9 +5,11 @@
 
 Simply follow the next steps and enjoy! :checkered_flag:
 
+## How to collaborate
+![alt tag](https://github.com/fifaleaguedevs/fifaleaguedevs.github.io/blob/master/development/process.png)
+
 ## Join the league
-1. Fork the [project](https://github.com/fifaleaguedevs/fifaleaguedevs.github.io)
-2. Add your information in _data/players.json
+1. Add your information in _data/players.json
 ```javascript
 {
     "name": "your_name",
@@ -15,7 +17,7 @@ Simply follow the next steps and enjoy! :checkered_flag:
     "psn": "your_psn_user"
   },
 ```
-3. Open a pull request to merge your user in the players list
+2. Open a pull request to merge your user in the players list
 
 ## Select your team
 ```
