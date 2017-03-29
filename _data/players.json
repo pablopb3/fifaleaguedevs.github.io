@@ -1,7 +1,32 @@
 [
-	{
-		"name": "Carles Fusté",
-		"github": "charly3pins",
-		"psn": "Charly3Pins"
-	}
+  {
+    "name": "Carles Fusté",
+    "github": "charly3pins",
+    "psn": "Charly3Pins"
+  },
+  {
+    "name": "Matheus Canhizares",
+    "github": "matheuscanhizares",
+    "psn": "mth_canhizares"
+  },
+  {
+    "name": "Lois 'o conflictos' Rilo",
+    "github": "loisrilo",
+    "psn": "pablopb92"
+  },
+  {
+    "name": "Pablo Pérez",
+    "github": "pablopb3",
+    "psn": "pablopb92"	  
+  },
+  {
+    "name": "Abderra El Haitout",
+    "github": "abderra7",
+    "psn": "abderra17"    
+  },
+  {
+    "name": "Dani Poquet",
+    "github": "dpoquet",
+    "psn": "poqueto"    
+  }
 ]
