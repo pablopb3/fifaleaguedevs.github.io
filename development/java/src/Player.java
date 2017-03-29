@@ -23,19 +23,19 @@ public class Player {
 		for(int i = 0; i<playersJSON.size(); i++) {
 			JSONObject player = (JSONObject) playersJSON.get(i);
 			String playerName = (String) player.get("name");
-			String teamPreferences = (String) player.get("teamPreferences");
-			String[] teamPreferencesSplit = teamPreferences.split(",");
-			ArrayList teamPreferencesArray = new ArrayList<>();
-			for(String teamNumber : teamPreferencesSplit) {
-				teamPreferencesArray.add(Integer.valueOf(teamNumber));
+			JSONArray teamPreferencesJSON = (JSONArray) player.get("teamPreferences");
+			ArrayList<Integer> teamPreferences = new ArrayList<Integer>();
+			for(int j=0; j<teamPreferencesJSON.size(); j++) {
+				teamPreferences.add(((Long) teamPreferencesJSON.get(j)).intValue());
+				
 			}
-		new Player(playerName, teamPreferencesArray);	
+			new Player(playerName, teamPreferences);	
 		}
 		return playersJSON;		
 	}
 	
 	public static JSONArray getPlayersJSON() {
-		return JSON_I_O.getJsonInfo(Constants.PATHS.PLAYERS);
+		return JsonUtils.getJsonInfo(Constants.PATHS.PLAYERS);
 	}
 
 	public String getName() {

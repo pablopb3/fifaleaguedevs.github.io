@@ -1,8 +1,4 @@
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.List;
-import java.util.concurrent.ThreadLocalRandom;
 
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
@@ -30,7 +26,7 @@ public class Team {
 	}
 	
 	public static JSONArray getTeamsJSON() {
-		return JSON_I_O.getJsonInfo(Constants.PATHS.TEAMS);
+		return JsonUtils.getJsonInfo(Constants.PATHS.TEAMS);
 	}
 	
 	public String getName() {

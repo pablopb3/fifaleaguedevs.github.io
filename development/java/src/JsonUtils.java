@@ -7,9 +7,6 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
-import java.io.Writer;
-import java.util.ArrayList;
-import java.util.Arrays;
 
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
@@ -18,15 +15,14 @@ import org.json.simple.parser.ParseException;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-public class JSON_I_O {
+public class JsonUtils {
 	
 	public static JSONArray getJsonInfo(String path) {
 		
-		InputStream jsonStream = null;
 		JSONArray jsonPlayers = null;
 		try {
-			jsonStream = JSON_I_O.readJSON(path);
-			jsonPlayers = JSON_I_O.parseJSON(jsonStream);
+			InputStream jsonStream = JsonUtils.readJSON(path);
+			jsonPlayers = JsonUtils.parseJSON(jsonStream);
 
 		} catch (FileNotFoundException e) {
 			// TODO Auto-generated catch block

@@ -1,11 +1,6 @@
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collections;
-import java.util.LinkedHashSet;
 import java.util.List;
-import java.util.Random;
-import java.util.Set;
-import java.util.concurrent.ThreadLocalRandom;
 
 import org.json.simple.JSONArray;
 
@@ -19,7 +14,7 @@ public class SortTeams {
 		ArrayList<Team> allTeams = Team.getAllTeams();
 		Collections.shuffle(allPlayers);
 		pickTeamByOrder(allPlayers, allTeams, playersJSON);
-		JSON_I_O.updatePlayersFile(playersJSON);
+		JsonUtils.updatePlayersFile(playersJSON);
 	}
 	
 	public static void pickTeamByOrder(ArrayList<Player> allPlayers, ArrayList<Team> allTeams, JSONArray playersJSON) {
@@ -40,6 +35,6 @@ public class SortTeams {
 
 		player.setTeam(teamToPick);
 		teamToPick.setAvailable(false);
-		JSON_I_O.setTeamInOriginalJSON(player, teamToPick, playersJSON);
+		JsonUtils.setTeamInOriginalJSON(player, teamToPick, playersJSON);
 	}
 }
