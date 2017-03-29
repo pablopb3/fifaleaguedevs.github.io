@@ -29,4 +29,9 @@
   "name" : "Dani Poquet",
   "psn" : "poqueto",
   "teamPreferences" : []
+} , {
+  "github" : "hmguardado",
+  "name" : "Hector Martinez",
+  "psn" : "pablopb92",
+  "teamPreferences" : [8, 2, 1, 12, 3, 5, 11, 7 , 6 , 0]
 } ]
