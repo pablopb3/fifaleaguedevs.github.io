@@ -1,32 +1,42 @@
-[
-  {
-    "name": "Carles Fusté",
-    "github": "charly3pins",
-    "psn": "Charly3Pins"
-  },
-  {
-    "name": "Matheus Canhizares",
-    "github": "matheuscanhizares",
-    "psn": "mth_canhizares"
-  },
-  {
-    "name": "Lois 'o conflictos' Rilo",
-    "github": "loisrilo",
-    "psn": "pablopb92"
-  },
-  {
-    "name": "Pablo Pérez",
-    "github": "pablopb3",
-    "psn": "pablopb92"	  
-  },
-  {
-    "name": "Abderra El Haitout",
-    "github": "abderra7",
-    "psn": "abderra17"    
-  },
-  {
-    "name": "Dani Poquet",
-    "github": "dpoquet",
-    "psn": "poqueto"    
-  }
-]
+[ {
+  "github" : "charly3pins",
+  "name" : "Carles Fusté",
+  "psn" : "Charly3Pins",
+  "teamPreferences" : [7, 2, 1 ,12, 11, 10, 8, 3, 6, 0]
+}, {
+  "github" : "matheuscanhizares",
+  "name" : "Matheus Canhizares",
+  "psn" : "mth_canhizares",
+  "teamPreferences" : []
+
+}, {
+  "github" : "loisrilo",
+  "name" : "Lois Rilo",
+  "psn" : "pablopb92",
+  "teamPreferences" : []
+}, {
+  "github" : "pablopb3",
+  "name" : "Pablo Pérez",
+  "psn" : "pablopb92",
+  "teamPreferences" : [8, 1, 2 ,11, 5, 3, 12, 6, 7, 0]
+}, {
+  "github" : "abderra7",
+  "name" : "Abderra El Haitout",
+  "psn" : "abderra17",
+  "teamPreferences" : []
+}, {
+  "github" : "dpoquet",
+  "name" : "Dani Poquet",
+  "psn" : "poqueto",
+  "teamPreferences" : []
+} , {
+  "github" : "hmguardado",
+  "name" : "Hector Martinez",
+  "psn" : "pablopb92",
+  "teamPreferences" : [8, 2, 1, 12, 3, 5, 11, 7, 6, 0]
+}, {
+  "github" : "mpbrenlla",
+  "name" : "Martin Perez",
+  "psn" : "mpbrenlla",
+  "teamPreferences" : [9, 2, 1, 5, 11, 12, 3, 4, 6, 7]
+}]
