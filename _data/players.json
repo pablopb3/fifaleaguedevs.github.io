@@ -39,4 +39,16 @@
   "name" : "Martin Perez",
   "psn" : "mpbrenlla",
   "teamPreferences" : [9, 2, 1, 5, 11, 12, 3, 4, 6, 7]
+},
+}, {
+  "github" : "Nashbra",
+  "name" : "Juan Novoa",
+  "psn" : "TheRealJuanan",
+  "teamPreferences" : [12, 7, 2, 14, 15, 16, 5, 11, 13, 17]
+},
+}, {
+  "github" : "Nashbra",
+  "name" : "Pablo Escobar (do not mess with him)",
+  "psn" : "TheRealJuanan",
+  "teamPreferences" : [18, 0, 1, 2, 3, 4, 5, 6, 7, 8]
 }]
