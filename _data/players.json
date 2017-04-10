@@ -2,51 +2,50 @@
   "github" : "charly3pins",
   "name" : "Carles Fusté",
   "psn" : "Charly3Pins",
-  "teamPreferences" : [7, 2, 1 ,12, 11, 10, 8, 3, 6, 0]
+  "team" : "Paris Saint-Germain FC"
 }, {
   "github" : "matheuscanhizares",
   "name" : "Matheus Canhizares",
   "psn" : "mth_canhizares",
-  "teamPreferences" : [11, 2, 12, 7, 10, 1, 5, 8, 9, 3]
-
+  "team" : "FC Bayern"
 }, {
   "github" : "loisrilo",
   "name" : "Lois Rilo",
   "psn" : "pablopb92",
-  "teamPreferences" : [2, 11, 9, 10, 5, 8, 7, 4, 3, 13]
+  "team" : "Real Madrid CF"
 }, {
   "github" : "pablopb3",
   "name" : "Pablo Pérez",
   "psn" : "pablopb92",
-  "teamPreferences" : [8, 1, 2 ,11, 5, 3, 12, 6, 7, 0]
+  "team" : "Chelsea FC"
 }, {
   "github" : "abderra7",
   "name" : "Abderra El Haitout",
   "psn" : "abderra17",
-  "teamPreferences" : [1, 2, 11, 5, 8, 10, 9, 3, 7, 4]
+  "team" : "FC Barcelona"
 }, {
   "github" : "dpoquet",
   "name" : "Dani Poquet",
   "psn" : "poqueto",
-  "teamPreferences" : [11, 7, 1, 2, 8, 9, 5, 4, 6, 3]
-} , {
+  "team" : "Manchester United FC"
+}, {
   "github" : "hmguardado",
   "name" : "Hector Martinez",
   "psn" : "pablopb92",
-  "teamPreferences" : [8, 2, 1, 12, 3, 5, 11, 7, 6, 0]
+  "team" : "Manchester City FC"
 }, {
   "github" : "mpbrenlla",
   "name" : "Martin Perez",
   "psn" : "mpbrenlla",
-  "teamPreferences" : [9, 2, 1, 5, 11, 12, 3, 4, 6, 7]
+  "team" : "Juventus FC"
 }, {
   "github" : "Nashbra",
   "name" : "Juan Novoa",
   "psn" : "TheRealJuanan",
-  "teamPreferences" : [12, 7, 2, 14, 15, 16, 5, 11, 13, 17]
+  "team" : "BV Borussia"
 }, {
   "github" : "Nashbra",
   "name" : "Pablo Escobar (do not mess with him)",
   "psn" : "TheRealJuanan",
-  "teamPreferences" : [18, 0, 1, 2, 3, 4, 5, 6, 7, 8]
-}]
+  "team" : "Athletic de Bilbao"
+} ]
