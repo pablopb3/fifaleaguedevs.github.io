@@ -8,10 +8,13 @@ git config --global user.email "travis@travis-ci.org"
 git config --global user.name "Travis CI"
 
 # Add table.json
-git checkout -b results
+git checkout results
+echo "Add table.json"
 git add _data/table.json
-git commit -m "Update classification"
-git push "$URL_WITH_CREDENTIALS" results > /dev/null 2>&1
+echo "Commit"
+git commit --allow-empty  -m "Update classification"
+echo "Push"
+git push --force --quiet "$URL_WITH_CREDENTIALS" results > /dev/null 2>&1
 
 echo "Deployed successfully."
 exit 0
