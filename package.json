@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"No test \""
+    "test": "echo \"No test \"",
+    "update-table": "nodejs development/node/update-table.js"
   },
   "repository": {
     "type": "git",

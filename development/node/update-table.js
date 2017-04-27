@@ -1,4 +1,5 @@
-var results = require('../../_data/results.json');
+console.log(__dirname);
+var results = require(__dirname + '/../../_data/results.json');
 var fs = require('fs');
 
 const TYPEOF_UNDEFINED = 'undefined';
@@ -12,7 +13,7 @@ for (round in results) {
 }
 
 table = sortTable(table);
-fs.writeFileSync('../../_data/table.json', JSON.stringify(table, null, 2));
+fs.writeFileSync(__dirname + '/../../_data/table.json', JSON.stringify(table, null, 2));
 
 
 function addRoundResults(round) {

@@ -1,4 +1,15 @@
 language: node_js
+
 branches:
   only:
     - results
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  on:
+    branch: results
+
+script:
+  - node run update-table
