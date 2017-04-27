@@ -9,7 +9,7 @@ git config --global user.name "Travis CI"
 
 # Add table.json
 git checkout -b results
-git add table.json
+git add _data/table.json
 git commit -m "Update classification"
 git push "$URL_WITH_CREDENTIALS" results > /dev/null 2>&1
 
