@@ -4,12 +4,11 @@ branches:
   only:
     - results
 
-deploy:
-  provider: pages
-  skip_cleanup: true
-  github_token: $GITHUB_TOKEN
-  on:
-    branch: results
+before_script:
+  - chmod +x ./development/scripts/deploy-update-table.sh
 
 script:
   - npm run update-table
+
+after_success:
+  ./development/scripts/deploy-update-table.sh
