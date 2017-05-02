@@ -54,5 +54,24 @@
   {
     "team": "USA Women's Team",
     "id" : 13
-  }     
-]
+  },
+  {
+    "team": "Real Sociedad",
+    "id" : 14
+  },
+  {
+    "team": "Germany Men's Team",
+    "id" : 15
+  },
+  {
+    "team": "Belgium Men's Team",
+    "id" : 16
+  },
+  {
+    "team": "Santa Comba FC",
+    "id" : 17
+  },
+  {
+    "team": "Athletic de Bilbao",
+    "id" : 18
+  }]
