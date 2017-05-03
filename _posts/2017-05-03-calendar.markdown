@@ -5,18 +5,14 @@ date:   2017-05-03 00:00:00 +0100
 categories: calendar
 ---
 
-
-{% assign splitMark = "###" %}
-{% assign arr = "" %}
-
 <ul>
-  {% for day in site.data.calendar %}
-    <li>
-      {{day.day}}
+  {% for fixture in site.data.calendar.Calendar %}
+    <li style="margin-bottom: 30px; list-style:none;">
+        <p><strong>Fixture {{fixture.Jornada}}</strong></p>
         <ul style="margin: 10px 0 0 20px;">
-          {% for partido in day.matches %}
-            <li style="margin-bottom: 10px;">
-              {{partido.equipoLocal}} (<span style="color:#1756a9;">{{partido.psnLocal}}</span>) vs {{partido.equipoVisitante}} (<span style="color:#1756a9;">{{partido.psnVisitante}}</span>) - <em>Match ID: {{partido.id}}</em>
+          {% for match in fixture.Partidos %}
+            <li style="margin-bottom: 10px; list-style:none;">
+              {{match.equipoLocal}} (<span style="color:#1756a9;">{{match.psnLocal}}</span>) vs {{match.equipoVisitante}} (<span style="color:#1756a9;">{{match.psnVisitante}}</span>) - <em>Match ID: {{match.id}}</em>
             </li>
           {% endfor %}
         </ul>
