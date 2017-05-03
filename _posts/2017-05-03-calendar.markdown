@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Calendar"
+date:   2017-05-03 00:00:00 +0100
+categories: calendar
+---
+
+
+{% assign splitMark = "###" %}
+{% assign arr = "" %}
+
+<ul>
+  {% for day in site.data.calendar %}
+    <li>
+      {{day.day}}
+        <ul style="margin: 10px 0 0 20px;">
+          {% for partido in day.matches %}
+            <li style="margin-bottom: 10px;">
+              {{partido.equipoLocal}} (<span style="color:#1756a9;">{{partido.psnLocal}}</span>) vs {{partido.equipoVisitante}} (<span style="color:#1756a9;">{{partido.psnVisitante}}</span>) - <em>Match ID: {{partido.id}}</em>
+            </li>
+          {% endfor %}
+        </ul>
+    </li>
+  {% endfor %}
+</ul>
