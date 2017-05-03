@@ -33,9 +33,19 @@ Simply follow the next steps and enjoy! :checkered_flag:
 3. Open a pull request to merge your preferences in the players list
 
 ## Update match results
+1. The local team is responsible for adding the result.
+2. Checkout to **round-N** (Where **N** is the number of the round):
+3. Change results.json adding the result in the following format:
 ```
-TODO
+{
+    "team1": "Name of the local team",
+    "score1": score team 1,
+    "team2": "Nameof the visiting team",
+    "score2": score team 2
+  }
 ```
+
+4. Open a pull request.
 
 ## Check classification
 ```
