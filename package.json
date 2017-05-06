@@ -1,0 +1,18 @@
+{
+  "name": "fifaleaguedevs.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test \""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheuscanhizares/fifaleaguedevs.github.io.git"
+  },
+  "author": "Fifa League Devs Org",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matheuscanhizares/fifaleaguedevs.github.io/issues"
+  },
+  "homepage": "https://github.com/matheuscanhizares/fifaleaguedevs.github.io#readme"
+}
