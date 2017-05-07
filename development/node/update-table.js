@@ -18,15 +18,15 @@ fs.writeFileSync('../../_data/table.json', JSON.stringify(table, null, 2));
 function addRoundResults(round) {
     for (index in round) {
         var result = round[index];
-        if (result.score1 > result.score2) {
-            addTeamInfo(result.team1, WIN_POINTS, result.score1, result.score2);
-            addTeamInfo(result.team2, LOST_POINTS, result.score2, result.score1);
-        } else if (result.score1 < result.score2) {
-            addTeamInfo(result.team1, LOST_POINTS, result.score1, result.score2);
-            addTeamInfo(result.team2, WIN_POINTS, result.score2, result.score1);
+        if (result.home_score > result.away_score) {
+            addTeamInfo(result.home_team, WIN_POINTS, result.home_score, result.away_score);
+            addTeamInfo(result.away_team, LOST_POINTS, result.away_score, result.home_score);
+        } else if (result.home_score < result.away_score) {
+            addTeamInfo(result.home_team, LOST_POINTS, result.home_score, result.away_score);
+            addTeamInfo(result.away_team, WIN_POINTS, result.away_score, result.home_score);
         } else {
-            addTeamInfo(result.team1, DRAWN_POINTS, result.score1, result.score2);
-            addTeamInfo(result.team2, DRAWN_POINTS, result.score2, result.score1);
+            addTeamInfo(result.home_team, DRAWN_POINTS, result.home_score, result.away_score);
+            addTeamInfo(result.away_team, DRAWN_POINTS, result.away_score, result.home_score);
         }
     }
 }

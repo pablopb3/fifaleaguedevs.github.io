@@ -38,10 +38,13 @@ Simply follow the next steps and enjoy! :checkered_flag:
 3. Change results.json adding the result in the following format:
 ```
 {
-    "team1": "Name of the local team",
-    "score1": score team 1,
-    "team2": "Nameof the visiting team",
-    "score2": score team 2
+    "match_id": 1,
+    "home_team": "Name of the local team",
+    "home_score": 2,
+    "home_goals": ["Name 1", "Name 2"],
+    "away_team": "Nameof the visiting team",
+    "away_score": 0,
+    "away_goals": []
   }
 ```
 
