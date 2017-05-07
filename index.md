@@ -4,3 +4,5 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+
+<h2><a class="post-link" href="/calendar/">Calendar</a></h2>
