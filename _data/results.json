@@ -1,67 +1,13 @@
 {
-"round-1":[
+ "round-1":[
   {
-    "team1": "Equipo 1",
-    "score1": 2,
-    "team2": "Equipo 2",
-    "score2": 1
-  },
-  {
-    "team1": "Equipo 3",
-    "score1": 2,
-    "team2": "Equipo 4",
-    "score2": 2
-  },
-  {
-    "team1": "Equipo 5",
-    "score1": 2,
-    "team2": "Equipo 6",
-    "score2": 3
-  },
-  {
-    "team1": "Equipo 7",
-    "score1": 0,
-    "team2": "Equipo 8",
-    "score2": 0
-  },
-  {
-    "team1": "Equipo 9",
-    "score1": 0,
-    "team2": "Equipo 10",
-    "score2": 1
+    "match_id": 4,
+    "home_team": "FC Barcelona",
+    "home_score": 1,
+    "home_goals": ["Messi"],
+    "away_team": "Juventus FC",
+    "away_score": 0,
+    "away_goals": ["Pjanic", "MArchisio"]
   }
-],
-"round-2":[
-  {
-    "team1": "Equipo 1",
-    "score1": 2,
-    "team2": "Equipo 3",
-    "score2": 1
-  },
-  {
-    "team1": "Equipo 2",
-    "score1": 2,
-    "team2": "Equipo 4",
-    "score2": 2
-  },
-  {
-    "team1": "Equipo 5",
-    "score1": 2,
-    "team2": "Equipo 7",
-    "score2": 3
-  },
-  {
-    "team1": "Equipo 9",
-    "score1": 0,
-    "team2": "Equipo 8",
-    "score2": 0
-  },
-  {
-    "team1": "Equipo 6",
-    "score1": 0,
-    "team2": "Equipo 10",
-    "score2": 1
-  }
-]
-
+ ]
 }
