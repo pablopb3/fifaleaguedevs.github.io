@@ -9,5 +9,14 @@
     "away_score": 0,
     "away_goals": ["Pjanic", "MArchisio"]
   }
+  {
+    "match_id": 6,
+    "home_team": "Atlético de Madrid",
+    "home_score": 3,
+    "home_goals": ["Gabi","Griezmann","Koke"],
+    "away_team": "Manchester City FC",
+    "away_score": 0,
+    "away_goals": []
+  }
  ]
 }
