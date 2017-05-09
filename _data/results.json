@@ -28,8 +28,17 @@
     "away_goals": ["Pjanic", "Marchisio"]
   },
   {
+    "match_id": 5,
+    "home_team": "Paris Saint-Germain FC",
+    "home_score": 0,
+    "home_goals": [],
+    "away_team": "Real Madrid CF",
+    "away_score": 3,
+    "away_goals": ["Benzema", "Modric", "Benzema"]
+  },
+  {
     "match_id": 6,
-    "home_team": "AtlÃ©tico de Madrid",
+    "home_team": "Atlético de Madrid",
     "home_score": 3,
     "home_goals": ["Gabi","Griezmann","Koke"],
     "away_team": "Manchester City FC",
