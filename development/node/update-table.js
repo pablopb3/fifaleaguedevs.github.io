@@ -37,6 +37,7 @@ function addTeamInfo(teamName, points, goalFor, goalAgainst) {
         table[teamName] = getEmptyData();
     }
     var team = table[teamName];
+    team.team = teamName;
     team.played++;
     team.points += points;
     team.goalFor += goalFor;
@@ -56,8 +57,6 @@ function sortTable(table) {
 
     var tableArray = tableToArray(table);
     tableArray.sort(function (team1, team2) {
-        team1 = team1[1];
-        team2 = team2[1];
         if (team1.points > team2.points) {
             return -1;
         }
@@ -85,20 +84,15 @@ function sortTable(table) {
         return 0;
     });
 
-    return arrayToTable(tableArray);
+    return tableArray;
 }
 
 function tableToArray(table) {
     var tableArray = [];
-    for (var key in table) tableArray.push([key, table[key]]);
+    for (var key in table) tableArray.push(table[key]);
     return tableArray;
 }
 
-function arrayToTable(tableArray) {
-    var table = {};
-    for (var key in tableArray) table[tableArray[key][0]] = tableArray[key][1];
-    return table;
-}
 
 function getEmptyData() {
     return {

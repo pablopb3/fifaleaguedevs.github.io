@@ -1,102 +1,134 @@
-{
-  "Equipo 1": {
-    "played": 2,
-    "won": 2,
-    "drawn": 0,
-    "lost": 0,
-    "points": 6,
-    "goalFor": 4,
-    "goalAgainst": 2,
-    "goalDifference": 2
-  },
-  "Equipo 10": {
-    "played": 2,
-    "won": 2,
-    "drawn": 0,
-    "lost": 0,
-    "points": 6,
-    "goalFor": 2,
-    "goalAgainst": 0,
-    "goalDifference": 2
-  },
-  "Equipo 7": {
-    "played": 2,
-    "won": 1,
-    "drawn": 1,
-    "lost": 0,
-    "points": 4,
-    "goalFor": 3,
-    "goalAgainst": 2,
-    "goalDifference": 1
-  },
-  "Equipo 6": {
-    "played": 2,
+[
+  {
+    "played": 1,
     "won": 1,
     "drawn": 0,
-    "lost": 1,
+    "lost": 0,
     "points": 3,
     "goalFor": 3,
-    "goalAgainst": 3,
-    "goalDifference": 0
-  },
-  "Equipo 4": {
-    "played": 2,
-    "won": 0,
-    "drawn": 2,
-    "lost": 0,
-    "points": 2,
-    "goalFor": 4,
-    "goalAgainst": 4,
-    "goalDifference": 0
-  },
-  "Equipo 8": {
-    "played": 2,
-    "won": 0,
-    "drawn": 2,
-    "lost": 0,
-    "points": 2,
-    "goalFor": 0,
     "goalAgainst": 0,
-    "goalDifference": 0
+    "goalDifference": 3,
+    "team": "Atlético de Madrid"
   },
-  "Equipo 2": {
-    "played": 2,
-    "won": 0,
-    "drawn": 1,
-    "lost": 1,
-    "points": 1,
+  {
+    "played": 1,
+    "won": 1,
+    "drawn": 0,
+    "lost": 0,
+    "points": 3,
     "goalFor": 3,
-    "goalAgainst": 4,
-    "goalDifference": -1
+    "goalAgainst": 0,
+    "goalDifference": 3,
+    "team": "Real Madrid CF"
   },
-  "Equipo 3": {
-    "played": 2,
-    "won": 0,
-    "drawn": 1,
-    "lost": 1,
-    "points": 1,
-    "goalFor": 3,
-    "goalAgainst": 4,
-    "goalDifference": -1
-  },
-  "Equipo 9": {
-    "played": 2,
-    "won": 0,
-    "drawn": 1,
-    "lost": 1,
-    "points": 1,
-    "goalFor": 0,
+  {
+    "played": 1,
+    "won": 1,
+    "drawn": 0,
+    "lost": 0,
+    "points": 3,
+    "goalFor": 2,
     "goalAgainst": 1,
-    "goalDifference": -1
+    "goalDifference": 1,
+    "team": "Chelsea FC"
   },
-  "Equipo 5": {
-    "played": 2,
+  {
+    "played": 1,
+    "won": 1,
+    "drawn": 0,
+    "lost": 0,
+    "points": 3,
+    "goalFor": 2,
+    "goalAgainst": 1,
+    "goalDifference": 1,
+    "team": "Juventus FC"
+  },
+  {
+    "played": 1,
+    "won": 1,
+    "drawn": 0,
+    "lost": 0,
+    "points": 3,
+    "goalFor": 1,
+    "goalAgainst": 0,
+    "goalDifference": 1,
+    "team": "FC Bayern"
+  },
+  {
+    "played": 1,
+    "won": 0,
+    "drawn": 1,
+    "lost": 0,
+    "points": 1,
+    "goalFor": 1,
+    "goalAgainst": 1,
+    "goalDifference": 0,
+    "team": "Athletic de Bilbao"
+  },
+  {
+    "played": 1,
+    "won": 0,
+    "drawn": 1,
+    "lost": 0,
+    "points": 1,
+    "goalFor": 1,
+    "goalAgainst": 1,
+    "goalDifference": 0,
+    "team": "BV Borussia"
+  },
+  {
+    "played": 1,
     "won": 0,
     "drawn": 0,
-    "lost": 2,
+    "lost": 1,
     "points": 0,
-    "goalFor": 4,
-    "goalAgainst": 6,
-    "goalDifference": -2
+    "goalFor": 1,
+    "goalAgainst": 2,
+    "goalDifference": -1,
+    "team": "FC Barcelona"
+  },
+  {
+    "played": 1,
+    "won": 0,
+    "drawn": 0,
+    "lost": 1,
+    "points": 0,
+    "goalFor": 1,
+    "goalAgainst": 2,
+    "goalDifference": -1,
+    "team": "Manchester United FC"
+  },
+  {
+    "played": 1,
+    "won": 0,
+    "drawn": 0,
+    "lost": 1,
+    "points": 0,
+    "goalFor": 0,
+    "goalAgainst": 1,
+    "goalDifference": -1,
+    "team": "Arsenal FC"
+  },
+  {
+    "played": 1,
+    "won": 0,
+    "drawn": 0,
+    "lost": 1,
+    "points": 0,
+    "goalFor": 0,
+    "goalAgainst": 3,
+    "goalDifference": -3,
+    "team": "Paris Saint-Germain FC"
+  },
+  {
+    "played": 1,
+    "won": 0,
+    "drawn": 0,
+    "lost": 1,
+    "points": 0,
+    "goalFor": 0,
+    "goalAgainst": 3,
+    "goalDifference": -3,
+    "team": "Manchester City FC"
   }
-}
+]
