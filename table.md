@@ -24,7 +24,7 @@ permalink: /table/
     } 
 
     .table tbody td {
-        padding: 7px 5px;
+        padding: 7px 10px;
         border-bottom: 1px solid #ffffff;
         font-size: 14px;
     }

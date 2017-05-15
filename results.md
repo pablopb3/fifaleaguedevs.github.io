@@ -54,7 +54,7 @@ permalink: /results/
             <tr>
                 <td align="center">{{match.home_team}}</td>
                 <td align="center">{{match.away_team}}</td>
-                <td align="center">{{match.home_score}}-{{match.away_score}}</td>
+                <td align="center"><strong>{{match.home_score}}-{{match.away_score}}</strong></td>
             </tr>
         {% endfor %}
     </tbody>
