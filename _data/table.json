@@ -1,5 +1,16 @@
 [
   {
+    "played": 2,
+    "won": 2,
+    "drawn": 0,
+    "lost": 0,
+    "points": 6,
+    "goalFor": 3,
+    "goalAgainst": 1,
+    "goalDifference": 2,
+    "team": "FC Bayern"
+  },
+  {
     "played": 1,
     "won": 1,
     "drawn": 0,
@@ -45,17 +56,6 @@
   },
   {
     "played": 1,
-    "won": 1,
-    "drawn": 0,
-    "lost": 0,
-    "points": 3,
-    "goalFor": 1,
-    "goalAgainst": 0,
-    "goalDifference": 1,
-    "team": "FC Bayern"
-  },
-  {
-    "played": 1,
     "won": 0,
     "drawn": 1,
     "lost": 0,
@@ -66,14 +66,14 @@
     "team": "Athletic de Bilbao"
   },
   {
-    "played": 1,
+    "played": 2,
     "won": 0,
     "drawn": 1,
-    "lost": 0,
+    "lost": 1,
     "points": 1,
-    "goalFor": 1,
-    "goalAgainst": 1,
-    "goalDifference": 0,
+    "goalFor": 2,
+    "goalAgainst": 3,
+    "goalDifference": -1,
     "team": "BV Borussia"
   },
   {
