@@ -6,3 +6,7 @@ layout: home
 ---
 
 <h2><a class="post-link" href="/calendar/">Calendar</a></h2>
+
+<h2><a class="post-link" href="/results/">Results</a></h2>
+
+<h2><a class="post-link" href="/table/">Table</a></h2>

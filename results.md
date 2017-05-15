@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Calendar
-permalink: /calendar/
+title: Results
+permalink: /results/
 ---
 
 <style type="text/css">
@@ -33,28 +33,32 @@ permalink: /calendar/
 
 </style>
 
+
 <h3>FIFA League Devs - Season 2016/17</h3>
 
 <h4>1st Division</h4> 
 
-{% for round in site.data.calendar.Calendar %}
+{% for round in site.data.results %}
+
 <table width="100%" class="table">
 
-<thead>
-    <tr>
-        <th align="center" colspan="3">Round {{round.Jornada}}</th>
-    </tr>
-</thead>
-
-<tbody>
-    {% for match in round.Partidos %}
+    <thead>
         <tr>
-            <td align="center">{{match.equipoLocal}} (<span style="color:#1756a9;">{{match.psnLocal}}</span>)</td>
-            <td align="center">{{match.equipoVisitante}} (<span style="color:#1756a9;">{{match.psnVisitante}}</span>)</td>
-            <td align="center"><em>Match ID: {{match.id}}</em></td>
+            <th align="center" colspan="3">Round {{forloop.index}}</th>
         </tr>
-    {% endfor %}
-</tbody>
+    </thead>
+
+    <tbody>
+        {% capture Nround %}round-{{forloop.index}}{% endcapture %}
+        {% for match in site.data.results[Nround] %}
+            <tr>
+                <td align="center">{{match.home_team}}</td>
+                <td align="center">{{match.away_team}}</td>
+                <td align="center"><strong>{{match.home_score}}-{{match.away_score}}</strong></td>
+            </tr>
+        {% endfor %}
+    </tbody>
 
 </table>
+    
 {% endfor %}
