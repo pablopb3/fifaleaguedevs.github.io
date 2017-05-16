@@ -64,6 +64,15 @@
       "away_team": "BV Borussia",
       "away_score": 1,
       "away_goals": ["Aubameyang"]
+    },
+    {
+      "match_id": 12,
+      "home_team": "Paris Saint-Germain FC",
+      "home_score": 2,
+      "home_goals": ["Cavani", "Cavani"],
+      "away_team": "Atlético de Madrid",
+      "away_score": 2,
+      "away_goals": ["Griezmann", "Torres"]
     }
   ]
 }
