@@ -73,6 +73,33 @@
       "away_team": "Manchester City",
       "away_score": 2,
       "away_goals": ["Sterling", "Aguero"]
+    },
+    {
+      "match_id": 7,
+      "home_team": "Arsenal FC",
+      "home_score": 0,
+      "home_goals": [],
+      "away_team": "Manchester United FC",
+      "away_score": 5,
+      "away_goals": ["Pogba", "Ibra", "Ibra", "Rooney", "Rashford"]
+    },
+    {
+      "match_id": 9,
+      "home_team": "Chelsea FC",
+      "home_score": 1,
+      "home_goals": ["Matic"],
+      "away_team": "Juventus FC",
+      "away_score": 0,
+      "away_goals": []
+    },
+    {
+      "match_id": 12,
+      "home_team": "Paris Saint-Germain FC",
+      "home_score": 2,
+      "home_goals": ["Cavani", "Cavani"],
+      "away_team": "Atlético de Madrid",
+      "away_score": 2,
+      "away_goals": ["Griezmann, Torres"]
     }
   ]
 }
