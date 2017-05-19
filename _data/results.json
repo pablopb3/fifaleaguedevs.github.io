@@ -57,6 +57,15 @@
  ],
   "round-2":[
     {
+      "match_id": 7,
+      "home_team": "Arsenal FC",
+      "home_score": 0,
+      "home_goals": [],
+      "away_team": "Manchester United FC",
+      "away_score": 5,
+      "away_goals": ["Pogba","Ibrahimovic","Mkhitaryan","Rooney","Rashford"]
+    },   
+    {
       "match_id": 8,
       "home_team": "FC Bayern",
       "home_score": 2,
@@ -66,24 +75,6 @@
       "away_goals": ["Aubameyang"]
     },
     {
-      "match_id": 11,
-      "home_team": "FC Barcelona",
-      "home_score": 1,
-      "home_goals": ["Busquets"],
-      "away_team": "Manchester City FC",
-      "away_score": 2,
-      "away_goals": ["Sterling", "Aguero"]
-    },
-    {
-      "match_id": 7,
-      "home_team": "Arsenal FC",
-      "home_score": 0,
-      "home_goals": [],
-      "away_team": "Manchester United FC",
-      "away_score": 5,
-      "away_goals": ["Pogba", "Ibra", "Ibra", "Rooney", "Rashford"]
-    },
-    {
       "match_id": 9,
       "home_team": "Chelsea FC",
       "home_score": 1,
@@ -91,6 +82,15 @@
       "away_team": "Juventus FC",
       "away_score": 0,
       "away_goals": []
+    },   
+    {
+      "match_id": 11,
+      "home_team": "FC Barcelona",
+      "home_score": 1,
+      "home_goals": ["Busquets"],
+      "away_team": "Manchester City FC",
+      "away_score": 2,
+      "away_goals": ["Sterling", "Aguero"]
     },
     {
       "match_id": 12,
