@@ -87,11 +87,6 @@ At the moment we do not have a standard way to share the goals, but you have ple
 * Upload them to your Youtube account and share with us throgh our official twitter 
   (@fifaleaguedevs).
 
-## Check classification
-```
-TODO
-```
-
 ## Slack's official channel
 ```
 TODO
