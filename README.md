@@ -47,6 +47,7 @@ Simply follow the next steps and enjoy! :checkered_flag:
     "away_goals": []
   }
 ```
+4. Open a pull request.
 
 ## Upload Goal Videos
 
@@ -58,13 +59,11 @@ At this point, it's worth to remenber uncle Ben words to you (yes you, local tea
 
 > *Remember, with great power comes great responsibility.*
 
-.. image:: pictures/UncleBen.jpg
-   :alt: Nice picture of Uncle Ben
-   :align: center
+![alt tag](https://github.com/fifaleaguedevs/fifaleaguedevs.github.io/blob/master/pictures/UncleBen.jpg)
 
 You may be wondering why to bring uncle Ben back, the answer is simple: **If you want to 
 upload goals, you have to stay in the match till the very end and wait to end of the match 
-screen.**. If local team (host of the party) leaves (due to a dramatic 0-5 loss or whatever) 
+screen**. If local team (host of the party) leaves (due to a dramatic 0-5 loss or whatever) 
 there is no end of the match screen, the away team would only see a demoralizing *connection 
 is lost*.
 
@@ -72,12 +71,13 @@ Now that you all have this clear the steps to follow are easy:
 
 **Record Goals:**
 
-#. Click on a goal video.
-#. Double click the ps4 controller button share. A little icon in the top left corner of your 
+1. Click on a goal video.
+2. Double click the ps4 controller button share. A little icon in the top left corner of 
+   your 
    screen will tell you the recording has started.
-#. Double click again to stop recording. Again and surprisingly an icon pops in your sreen's 
+3. Double click again to stop recording. Again and surprisingly an icon pops in your sreen's 
    top left corner.
-#. Repeat steps 1 to 3 for all match goals.
+4. Repeat steps 1 to 3 for all match goals.
 
 **Share Goals:**
 
@@ -86,9 +86,6 @@ At the moment we do not have a standard way to share the goals, but you have ple
 * Export them to a pendrive and send them to <fifaleaguedevs@gmail.com>.
 * Upload them to your Youtube account and share with us throgh our official twitter 
   (@fifaleaguedevs).
-
-
-4. Open a pull request.
 
 ## Check classification
 ```
