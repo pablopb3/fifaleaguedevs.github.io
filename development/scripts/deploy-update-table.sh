@@ -8,7 +8,6 @@ git config --global user.email "travis@travis-ci.org"
 git config --global user.name "Travis CI"
 
 # Add table.json
-git checkout results
 echo "Add table.json"
 git add _data/table.json
 echo "Commit"
