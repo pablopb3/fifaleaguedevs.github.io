@@ -1,77 +1,49 @@
 [
   {
-    "team": "Sevilla CF",
-    "id" : 0
-  },
-  {
     "team": "FC Barcelona",
-    "id" : 1
+    "id" : 241
   },
   {
     "team": "Real Madrid CF",
-    "id" : 2
+    "id" : 243
   },
   {
     "team": "Atlético de Madrid",
-    "id" : 3
-  },
-  {
-    "team": "Arsenal FC",
-    "id" : 4
+    "id" : 240
   },
   {
     "team": "Chelsea FC",
     "id" : 5
   },
   {
-    "team": "Liverpool FC",
-    "id" : 6
+    "team": "Arsenal FC",
+    "id" : 1
   },
   {
     "team": "Manchester United FC",
-    "id" : 7
-  },
-  {
-    "team": "Manchester City FC",
-    "id" : 8
-  },     
-  {
-    "team": "Juventus FC",
-    "id" : 9
-  },
-  {
-    "team": "Paris Saint-Germain FC",
-    "id" : 10
-  },     
-  {
-    "team": "FC Bayern",
     "id" : 11
   },
   {
+    "team": "Manchester City FC",
+    "id" : 10
+  },     
+  {
+    "team": "Juventus FC",
+    "id" : 45
+  },
+  {
+    "team": "Paris Saint-Germain FC",
+    "id" : 73
+  },     
+  {
+    "team": "FC Bayern",
+    "id" : 21
+  },
+  {
     "team": "BV Borussia",
-    "id" : 12
-  },
-  {
-    "team": "USA Women's Team",
-    "id" : 13
-  },
-  {
-    "team": "Real Sociedad",
-    "id" : 14
-  },
-  {
-    "team": "Germany Men's Team",
-    "id" : 15
-  },
-  {
-    "team": "Belgium Men's Team",
-    "id" : 16
-  },
-  {
-    "team": "Santa Comba FC",
-    "id" : 17
+    "id" : 22
   },
   {
     "team": "Athletic de Bilbao",
-    "id" : 18
+    "id" : 448
   }]
