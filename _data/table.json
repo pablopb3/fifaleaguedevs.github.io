@@ -1,14 +1,14 @@
 [
   {
-    "played": 2,
-    "won": 2,
+    "played": 3,
+    "won": 3,
     "drawn": 0,
     "lost": 0,
-    "points": 6,
-    "goalFor": 3,
-    "goalAgainst": 1,
-    "goalDifference": 2,
-    "team": "Chelsea FC"
+    "points": 9,
+    "goalFor": 6,
+    "goalAgainst": 2,
+    "goalDifference": 4,
+    "team": "FC Bayern"
   },
   {
     "played": 2,
@@ -19,7 +19,7 @@
     "goalFor": 3,
     "goalAgainst": 1,
     "goalDifference": 2,
-    "team": "FC Bayern"
+    "team": "Chelsea FC"
   },
   {
     "played": 2,
@@ -44,14 +44,14 @@
     "team": "Manchester United FC"
   },
   {
-    "played": 1,
+    "played": 2,
     "won": 1,
     "drawn": 0,
-    "lost": 0,
+    "lost": 1,
     "points": 3,
-    "goalFor": 3,
-    "goalAgainst": 0,
-    "goalDifference": 3,
+    "goalFor": 4,
+    "goalAgainst": 3,
+    "goalDifference": 1,
     "team": "Real Madrid CF"
   },
   {
