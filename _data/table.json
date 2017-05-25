@@ -1,14 +1,41 @@
 [
   {
-    "played": 2,
-    "won": 2,
+    "played": 3,
+    "won": 3,
     "drawn": 0,
     "lost": 0,
     "points": 6,
     "goalFor": 3,
     "goalAgainst": 1,
     "goalDifference": 2,
+    "team": "FC Bayern",
+    "points": 9,
+    "goalFor": 6,
+    "goalAgainst": 2,
+    "goalDifference": 4,
     "team": "FC Bayern"
+  },
+  {
+    "played": 3,
+    "won": 2,
+    "drawn": 1,
+    "lost": 0,
+    "points": 7,
+    "goalFor": 4,
+    "goalAgainst": 2,
+    "goalDifference": 2,
+    "team": "Chelsea FC"
+  },
+  {
+    "played": 3,
+    "won": 1,
+    "drawn": 1,
+    "lost": 1,
+    "points": 4,
+    "goalFor": 6,
+    "goalAgainst": 2,
+    "goalDifference": 4,
+    "team": "Manchester United FC"
   },
   {
     "played": 1,
@@ -23,14 +50,26 @@
   },
   {
     "played": 1,
+    "played": 3,
     "won": 1,
-    "drawn": 0,
-    "lost": 0,
-    "points": 3,
+    "drawn": 1,
+    "lost": 1,
+    "points": 4,
+    "goalFor": 2,
+    "goalAgainst": 2,
+    "goalDifference": 0,
+    "team": "Juventus FC"
+  },
+  {
+    "played": 3,
+    "won": 1,
+    "drawn": 1,
+    "lost": 1,
+    "points": 4,
     "goalFor": 3,
-    "goalAgainst": 0,
-    "goalDifference": 3,
-    "team": "Real Madrid CF"
+    "goalAgainst": 5,
+    "goalDifference": -2,
+    "team": "Manchester City FC"
   },
   {
     "played": 1,
@@ -52,7 +91,22 @@
     "goalFor": 2,
     "goalAgainst": 1,
     "goalDifference": 1,
-    "team": "Juventus FC"
+    "team": "Juventus FC",
+    "goalFor": 4,
+    "goalAgainst": 3,
+    "goalDifference": 1,
+    "team": "Real Madrid CF"
+  },
+  {
+    "played": 3,
+    "won": 0,
+    "drawn": 2,
+    "lost": 1,
+    "points": 2,
+    "goalFor": 2,
+    "goalAgainst": 5,
+    "goalDifference": -3,
+    "team": "Paris Saint-Germain FC"
   },
   {
     "played": 1,
@@ -96,7 +150,16 @@
     "goalFor": 1,
     "goalAgainst": 2,
     "goalDifference": -1,
-    "team": "Manchester United FC"
+    "team": "Manchester United FC",
+    "played": 3,
+    "won": 0,
+    "drawn": 1,
+    "lost": 2,
+    "points": 1,
+    "goalFor": 2,
+    "goalAgainst": 4,
+    "goalDifference": -2,
+    "team": "FC Barcelona"
   },
   {
     "played": 1,
