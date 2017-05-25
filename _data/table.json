@@ -82,6 +82,17 @@
     "drawn": 2,
     "lost": 1,
     "points": 2,
+    "goalFor": 3,
+    "goalAgainst": 4,
+    "goalDifference": -1,
+    "team": "BV Borussia"
+  },
+  {
+    "played": 3,
+    "won": 0,
+    "drawn": 2,
+    "lost": 1,
+    "points": 2,
     "goalFor": 2,
     "goalAgainst": 5,
     "goalDifference": -3,
@@ -99,17 +110,6 @@
     "team": "Athletic de Bilbao"
   },
   {
-    "played": 2,
-    "won": 0,
-    "drawn": 1,
-    "lost": 1,
-    "points": 1,
-    "goalFor": 2,
-    "goalAgainst": 3,
-    "goalDifference": -1,
-    "team": "BV Borussia"
-  },
-  {
     "played": 3,
     "won": 0,
     "drawn": 1,
@@ -121,13 +121,13 @@
     "team": "FC Barcelona"
   },
   {
-    "played": 2,
+    "played": 3,
     "won": 0,
-    "drawn": 0,
+    "drawn": 1,
     "lost": 2,
-    "points": 0,
-    "goalFor": 0,
-    "goalAgainst": 6,
+    "points": 1,
+    "goalFor": 1,
+    "goalAgainst": 7,
     "goalDifference": -6,
     "team": "Arsenal FC"
   }
