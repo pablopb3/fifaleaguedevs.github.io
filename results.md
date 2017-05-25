@@ -53,8 +53,8 @@ permalink: /results/
         {% for match in site.data.results[Nround] %}
             <tr>
                 <td align="center">{{match.home_team}}</td>
-                <td align="center">{{match.away_team}}</td>
                 <td align="center"><strong>{{match.home_score}}-{{match.away_score}}</strong></td>
+                <td align="center">{{match.away_team}}</td>
             </tr>
         {% endfor %}
     </tbody>
