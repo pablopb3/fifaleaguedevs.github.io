@@ -4,42 +4,54 @@
             "Partidos": [
                 {
                     "equipoLocal": "Arsenal FC",
+                    "githubLocal": "davidga71",
                     "equipoVisitante": "FC Bayern",
+                    "githubVisitante": "matheuscanhizares",
                     "psnLocal": "davidga71",
                     "id": 1,
                     "psnVisitante": "mth_canhizares"
                 },
                 {
                     "equipoLocal": "Chelsea FC",
+                    "githubLocal": "pablopb3",
                     "equipoVisitante": "Manchester United FC",
+                    "githubVisitante": "dpoquet",
                     "psnLocal": "pablopb92",
                     "id": 2,
                     "psnVisitante": "poqueto"
                 },
                 {
                     "equipoLocal": "Athletic de Bilbao",
+                    "githubLocal": "Pablo (no username)",
                     "equipoVisitante": "BV Borussia",
+                    "githubVisitante": "Nashbra",
                     "psnLocal": "TheRealJuanan",
                     "id": 3,
                     "psnVisitante": "TheRealJuanan"
                 },
                 {
                     "equipoLocal": "FC Barcelona",
+                    "githubLocal": "abderra7",
                     "equipoVisitante": "Juventus FC",
+                    "githubVisitante": "mpbrenlla",
                     "psnLocal": "abderra17",
                     "id": 4,
                     "psnVisitante": "mpbrenlla"
                 },
                 {
                     "equipoLocal": "Paris Saint-Germain FC",
+                    "githubLocal": "Charly3Pins",
                     "equipoVisitante": "Real Madrid CF",
+                    "githubVisitante": "loisrilo",
                     "psnLocal": "Charly3Pins",
                     "id": 5,
                     "psnVisitante": "pablopb92"
                 },
                 {
                     "equipoLocal": "Atlético de Madrid",
+                    "githubLocal": "VicenteT",
                     "equipoVisitante": "Manchester City FC",
+                    "githubVisitante": "hmguardado",
                     "psnLocal": "Vincent_V",
                     "id": 6,
                     "psnVisitante": "pablopb92"
@@ -51,42 +63,54 @@
             "Partidos": [
                 {
                     "equipoLocal": "Arsenal FC",
+                    "githubLocal": "davidga71",
                     "equipoVisitante": "Manchester United FC",
+                    "githubVisitante": "dpoquet",
                     "psnLocal": "davidga71",
                     "id": 7,
                     "psnVisitante": "poqueto"
                 },
                 {
                     "equipoLocal": "FC Bayern",
+                    "githubLocal": "matheuscanhizares",
                     "equipoVisitante": "BV Borussia",
+                    "githubVisitante": "Nashbra",
                     "psnLocal": "mth_canhizares",
                     "id": 8,
                     "psnVisitante": "TheRealJuanan"
                 },
                 {
                     "equipoLocal": "Chelsea FC",
+                    "githubLocal": "pablopb3",
                     "equipoVisitante": "Juventus FC",
+                    "githubVisitante": "mpbrenlla",
                     "psnLocal": "pablopb92",
                     "id": 9,
                     "psnVisitante": "mpbrenlla"
                 },
                 {
                     "equipoLocal": "Athletic de Bilbao",
+                    "githubLocal": "Pablo (no username)",
                     "equipoVisitante": "Real Madrid CF",
+                    "githubVisitante": "loisrilo",
                     "psnLocal": "TheRealJuanan",
                     "id": 10,
                     "psnVisitante": "pablopb92"
                 },
                 {
                     "equipoLocal": "FC Barcelona",
+                    "githubLocal": "abderra7",
                     "equipoVisitante": "Manchester City FC",
+                    "githubVisitante": "hmguardado",
                     "psnLocal": "abderra17",
                     "id": 11,
                     "psnVisitante": "pablopb92"
                 },
                 {
                     "equipoLocal": "Paris Saint-Germain FC",
+                    "githubLocal": "Charly3Pins",
                     "equipoVisitante": "Atlético de Madrid",
+                    "githubVisitante": "VicenteT",
                     "psnLocal": "Charly3Pins",
                     "id": 12,
                     "psnVisitante": "Vincent_V"
@@ -98,42 +122,54 @@
             "Partidos": [
                 {
                     "equipoLocal": "Arsenal FC",
+                    "githubLocal": "davidga71",
                     "equipoVisitante": "BV Borussia",
+                    "githubVisitante": "Nashbra",
                     "psnLocal": "davidga71",
                     "id": 13,
                     "psnVisitante": "TheRealJuanan"
                 },
                 {
                     "equipoLocal": "Manchester United FC",
+                    "githubLocal": "dpoquet",
                     "equipoVisitante": "Juventus FC",
+                    "githubVisitante": "mpbrenlla",
                     "psnLocal": "poqueto",
                     "id": 14,
                     "psnVisitante": "mpbrenlla"
                 },
                 {
                     "equipoLocal": "FC Bayern",
+                    "githubLocal": "matheuscanhizares",
                     "equipoVisitante": "Real Madrid CF",
+                    "githubVisitante": "loisrilo",
                     "psnLocal": "mth_canhizares",
                     "id": 15,
                     "psnVisitante": "pablopb92"
                 },
                 {
                     "equipoLocal": "Chelsea FC",
+                    "githubLocal": "pablopb3",
                     "equipoVisitante": "Manchester City FC",
+                    "githubVisitante": "hmguardado",
                     "psnLocal": "pablopb92",
                     "id": 16,
                     "psnVisitante": "pablopb92"
                 },
                 {
                     "equipoLocal": "Athletic de Bilbao",
+                    "githubLocal": "Pablo (no username)",
                     "equipoVisitante": "Atlético de Madrid",
+                    "githubVisitante": "VicenteT",
                     "psnLocal": "TheRealJuanan",
                     "id": 17,
                     "psnVisitante": "Vincent_V"
                 },
                 {
                     "equipoLocal": "FC Barcelona",
+                    "githubLocal": "abderra7",
                     "equipoVisitante": "Paris Saint-Germain FC",
+                    "githubVisitante": "Charly3Pins",
                     "psnLocal": "abderra17",
                     "id": 18,
                     "psnVisitante": "Charly3Pins"
@@ -145,42 +181,54 @@
             "Partidos": [
                 {
                     "equipoLocal": "Arsenal FC",
+                    "githubLocal": "davidga71",
                     "equipoVisitante": "Juventus FC",
+                    "githubVisitante": "mpbrenlla",
                     "psnLocal": "davidga71",
                     "id": 19,
                     "psnVisitante": "mpbrenlla"
                 },
                 {
                     "equipoLocal": "BV Borussia",
+                    "githubLocal": "Nashbra",
                     "equipoVisitante": "Real Madrid CF",
+                    "githubVisitante": "loisrilo",
                     "psnLocal": "TheRealJuanan",
                     "id": 20,
                     "psnVisitante": "pablopb92"
                 },
                 {
                     "equipoLocal": "Manchester United FC",
+                    "githubLocal": "dpoquet",
                     "equipoVisitante": "Manchester City FC",
+                    "githubVisitante": "hmguardado",
                     "psnLocal": "poqueto",
                     "id": 21,
                     "psnVisitante": "pablopb92"
                 },
                 {
                     "equipoLocal": "FC Bayern",
+                    "githubLocal": "matheuscanhizares",
                     "equipoVisitante": "Atlético de Madrid",
+                    "githubVisitante": "VicenteT",
                     "psnLocal": "mth_canhizares",
                     "id": 22,
                     "psnVisitante": "Vincent_V"
                 },
                 {
                     "equipoLocal": "Chelsea FC",
+                    "githubLocal": "pablopb3",
                     "equipoVisitante": "Paris Saint-Germain FC",
+                    "githubVisitante": "Charly3Pins",
                     "psnLocal": "pablopb92",
                     "id": 23,
                     "psnVisitante": "Charly3Pins"
                 },
                 {
                     "equipoLocal": "Athletic de Bilbao",
+                    "githubLocal": "Pablo (no username)",
                     "equipoVisitante": "FC Barcelona",
+                    "githubVisitante": "abderra7",
                     "psnLocal": "TheRealJuanan",
                     "id": 24,
                     "psnVisitante": "abderra17"
@@ -192,42 +240,54 @@
             "Partidos": [
                 {
                     "equipoLocal": "Arsenal FC",
+                    "githubLocal": "davidga71",
                     "equipoVisitante": "Real Madrid CF",
+                    "githubVisitante": "loisrilo",
                     "psnLocal": "davidga71",
                     "id": 25,
                     "psnVisitante": "pablopb92"
                 },
                 {
                     "equipoLocal": "Juventus FC",
+                    "githubLocal": "mpbrenlla",
                     "equipoVisitante": "Manchester City FC",
+                    "githubVisitante": "hmguardado",
                     "psnLocal": "mpbrenlla",
                     "id": 26,
                     "psnVisitante": "pablopb92"
                 },
                 {
                     "equipoLocal": "BV Borussia",
+                    "githubLocal": "Nashbra",
                     "equipoVisitante": "Atlético de Madrid",
+                    "githubVisitante": "VicenteT",
                     "psnLocal": "TheRealJuanan",
                     "id": 27,
                     "psnVisitante": "Vincent_V"
                 },
                 {
                     "equipoLocal": "Manchester United FC",
+                    "githubLocal": "dpoquet",
                     "equipoVisitante": "Paris Saint-Germain FC",
+                    "githubVisitante": "Charly3Pins",
                     "psnLocal": "poqueto",
                     "id": 28,
                     "psnVisitante": "Charly3Pins"
                 },
                 {
                     "equipoLocal": "FC Bayern",
+                    "githubLocal": "matheuscanhizares",
                     "equipoVisitante": "FC Barcelona",
+                    "githubVisitante": "abderra7",
                     "psnLocal": "mth_canhizares",
                     "id": 29,
                     "psnVisitante": "abderra17"
                 },
                 {
                     "equipoLocal": "Chelsea FC",
+                    "githubLocal": "pablopb3",
                     "equipoVisitante": "Athletic de Bilbao",
+                    "githubVisitante": "Pablo (no username)",
                     "psnLocal": "pablopb92",
                     "id": 30,
                     "psnVisitante": "TheRealJuanan"
@@ -239,42 +299,54 @@
             "Partidos": [
                 {
                     "equipoLocal": "Arsenal FC",
+                    "githubLocal": "davidga71",
                     "equipoVisitante": "Manchester City FC",
+                    "githubVisitante": "hmguardado",
                     "psnLocal": "davidga71",
                     "id": 31,
                     "psnVisitante": "pablopb92"
                 },
                 {
                     "equipoLocal": "Real Madrid CF",
+                    "githubLocal": "loisrilo",
                     "equipoVisitante": "Atlético de Madrid",
+                    "githubVisitante": "VicenteT",
                     "psnLocal": "pablopb92",
                     "id": 32,
                     "psnVisitante": "Vincent_V"
                 },
                 {
                     "equipoLocal": "Juventus FC",
+                    "githubLocal": "mpbrenlla",
                     "equipoVisitante": "Paris Saint-Germain FC",
+                    "githubVisitante": "Charly3Pins",
                     "psnLocal": "mpbrenlla",
                     "id": 33,
                     "psnVisitante": "Charly3Pins"
                 },
                 {
                     "equipoLocal": "BV Borussia",
+                    "githubLocal": "Nashbra",
                     "equipoVisitante": "FC Barcelona",
+                    "githubVisitante": "abderra7",
                     "psnLocal": "TheRealJuanan",
                     "id": 34,
                     "psnVisitante": "abderra17"
                 },
                 {
                     "equipoLocal": "Manchester United FC",
+                    "githubLocal": "dpoquet",
                     "equipoVisitante": "Athletic de Bilbao",
+                    "githubVisitante": "Pablo (no username)",
                     "psnLocal": "poqueto",
                     "id": 35,
                     "psnVisitante": "TheRealJuanan"
                 },
                 {
                     "equipoLocal": "FC Bayern",
+                    "githubLocal": "matheuscanhizares",
                     "equipoVisitante": "Chelsea FC",
+                    "githubVisitante": "pablopb3",
                     "psnLocal": "mth_canhizares",
                     "id": 36,
                     "psnVisitante": "pablopb92"
@@ -286,42 +358,54 @@
             "Partidos": [
                 {
                     "equipoLocal": "Arsenal FC",
+                    "githubLocal": "davidga71",
                     "equipoVisitante": "Atlético de Madrid",
+                    "githubVisitante": "VicenteT",
                     "psnLocal": "davidga71",
                     "id": 37,
                     "psnVisitante": "Vincent_V"
                 },
                 {
                     "equipoLocal": "Manchester City FC",
+                    "githubLocal": "hmguardado",
                     "equipoVisitante": "Paris Saint-Germain FC",
+                    "githubVisitante": "Charly3Pins",
                     "psnLocal": "pablopb92",
                     "id": 38,
                     "psnVisitante": "Charly3Pins"
                 },
                 {
                     "equipoLocal": "Real Madrid CF",
+                    "githubLocal": "loisrilo",
                     "equipoVisitante": "FC Barcelona",
+                    "githubVisitante": "abderra7",
                     "psnLocal": "pablopb92",
                     "id": 39,
                     "psnVisitante": "abderra17"
                 },
                 {
                     "equipoLocal": "Juventus FC",
+                    "githubLocal": "mpbrenlla",
                     "equipoVisitante": "Athletic de Bilbao",
+                    "githubVisitante": "Pablo (no username)",
                     "psnLocal": "mpbrenlla",
                     "id": 40,
                     "psnVisitante": "TheRealJuanan"
                 },
                 {
                     "equipoLocal": "BV Borussia",
+                    "githubLocal": "Nashbra",
                     "equipoVisitante": "Chelsea FC",
+                    "githubVisitante": "pablopb3",
                     "psnLocal": "TheRealJuanan",
                     "id": 41,
                     "psnVisitante": "pablopb92"
                 },
                 {
                     "equipoLocal": "Manchester United FC",
+                    "githubLocal": "dpoquet",
                     "equipoVisitante": "FC Bayern",
+                    "githubVisitante": "matheuscanhizares",
                     "psnLocal": "poqueto",
                     "id": 42,
                     "psnVisitante": "mth_canhizares"
@@ -333,42 +417,54 @@
             "Partidos": [
                 {
                     "equipoLocal": "Arsenal FC",
+                    "githubLocal": "davidga71",
                     "equipoVisitante": "Paris Saint-Germain FC",
+                    "githubVisitante": "Charly3Pins",
                     "psnLocal": "davidga71",
                     "id": 43,
                     "psnVisitante": "Charly3Pins"
                 },
                 {
                     "equipoLocal": "Atlético de Madrid",
+                    "githubLocal": "VicenteT",
                     "equipoVisitante": "FC Barcelona",
+                    "githubVisitante": "abderra7",
                     "psnLocal": "Vincent_V",
                     "id": 44,
                     "psnVisitante": "abderra17"
                 },
                 {
                     "equipoLocal": "Manchester City FC",
+                    "githubLocal": "hmguardado",
                     "equipoVisitante": "Athletic de Bilbao",
+                    "githubVisitante": "Pablo (no username)",
                     "psnLocal": "pablopb92",
                     "id": 45,
                     "psnVisitante": "TheRealJuanan"
                 },
                 {
                     "equipoLocal": "Real Madrid CF",
+                    "githubLocal": "loisrilo",
                     "equipoVisitante": "Chelsea FC",
+                    "githubVisitante": "pablopb3",
                     "psnLocal": "pablopb92",
                     "id": 46,
                     "psnVisitante": "pablopb92"
                 },
                 {
                     "equipoLocal": "Juventus FC",
+                    "githubLocal": "mpbrenlla",
                     "equipoVisitante": "FC Bayern",
+                    "githubVisitante": "matheuscanhizares",
                     "psnLocal": "mpbrenlla",
                     "id": 47,
                     "psnVisitante": "mth_canhizares"
                 },
                 {
                     "equipoLocal": "BV Borussia",
+                    "githubLocal": "Nashbra",
                     "equipoVisitante": "Manchester United FC",
+                    "githubVisitante": "dpoquet",
                     "psnLocal": "TheRealJuanan",
                     "id": 48,
                     "psnVisitante": "poqueto"
@@ -380,42 +476,54 @@
             "Partidos": [
                 {
                     "equipoLocal": "Arsenal FC",
+                    "githubLocal": "davidga71",
                     "equipoVisitante": "FC Barcelona",
+                    "githubVisitante": "abderra7",
                     "psnLocal": "davidga71",
                     "id": 49,
                     "psnVisitante": "abderra17"
                 },
                 {
                     "equipoLocal": "Paris Saint-Germain FC",
+                    "githubLocal": "Charly3Pins",
                     "equipoVisitante": "Athletic de Bilbao",
+                    "githubVisitante": "Pablo (no username)",
                     "psnLocal": "Charly3Pins",
                     "id": 50,
                     "psnVisitante": "TheRealJuanan"
                 },
                 {
                     "equipoLocal": "Atlético de Madrid",
+                    "githubLocal": "VicenteT",
                     "equipoVisitante": "Chelsea FC",
+                    "githubVisitante": "pablopb3",
                     "psnLocal": "Vincent_V",
                     "id": 51,
                     "psnVisitante": "pablopb92"
                 },
                 {
                     "equipoLocal": "Manchester City FC",
+                    "githubLocal": "hmguardado",
                     "equipoVisitante": "FC Bayern",
+                    "githubVisitante": "matheuscanhizares",
                     "psnLocal": "pablopb92",
                     "id": 52,
                     "psnVisitante": "mth_canhizares"
                 },
                 {
                     "equipoLocal": "Real Madrid CF",
+                    "githubLocal": "loisrilo",
                     "equipoVisitante": "Manchester United FC",
+                    "githubVisitante": "dpoquet",
                     "psnLocal": "pablopb92",
                     "id": 53,
                     "psnVisitante": "poqueto"
                 },
                 {
                     "equipoLocal": "Juventus FC",
+                    "githubLocal": "mpbrenlla",
                     "equipoVisitante": "BV Borussia",
+                    "githubVisitante": "Nashbra",
                     "psnLocal": "mpbrenlla",
                     "id": 54,
                     "psnVisitante": "TheRealJuanan"
@@ -427,42 +535,54 @@
             "Partidos": [
                 {
                     "equipoLocal": "Arsenal FC",
+                    "githubLocal": "davidga71",
                     "equipoVisitante": "Athletic de Bilbao",
+                    "githubVisitante": "Pablo (no username)",
                     "psnLocal": "davidga71",
                     "id": 55,
                     "psnVisitante": "TheRealJuanan"
                 },
                 {
                     "equipoLocal": "FC Barcelona",
+                    "githubLocal": "abderra7",
                     "equipoVisitante": "Chelsea FC",
+                    "githubVisitante": "pablopb3",
                     "psnLocal": "abderra17",
                     "id": 56,
                     "psnVisitante": "pablopb92"
                 },
                 {
                     "equipoLocal": "Paris Saint-Germain FC",
+                    "githubLocal": "Charly3Pins",
                     "equipoVisitante": "FC Bayern",
+                    "githubVisitante": "matheuscanhizares",
                     "psnLocal": "Charly3Pins",
                     "id": 57,
                     "psnVisitante": "mth_canhizares"
                 },
                 {
                     "equipoLocal": "Atlético de Madrid",
+                    "githubLocal": "VicenteT",
                     "equipoVisitante": "Manchester United FC",
+                    "githubVisitante": "dpoquet",
                     "psnLocal": "Vincent_V",
                     "id": 58,
                     "psnVisitante": "poqueto"
                 },
                 {
                     "equipoLocal": "Manchester City FC",
+                    "githubLocal": "hmguardado",
                     "equipoVisitante": "BV Borussia",
+                    "githubVisitante": "Nashbra",
                     "psnLocal": "pablopb92",
                     "id": 59,
                     "psnVisitante": "TheRealJuanan"
                 },
                 {
                     "equipoLocal": "Real Madrid CF",
+                    "githubLocal": "loisrilo",
                     "equipoVisitante": "Juventus FC",
+                    "githubVisitante": "mpbrenlla",
                     "psnLocal": "pablopb92",
                     "id": 60,
                     "psnVisitante": "mpbrenlla"
@@ -474,42 +594,54 @@
             "Partidos": [
                 {
                     "equipoLocal": "Arsenal FC",
+                    "githubLocal": "davidga71",
                     "equipoVisitante": "Chelsea FC",
+                    "githubVisitante": "pablopb3",
                     "psnLocal": "davidga71",
                     "id": 61,
                     "psnVisitante": "pablopb92"
                 },
                 {
                     "equipoLocal": "Athletic de Bilbao",
+                    "githubLocal": "Pablo (no username)",
                     "equipoVisitante": "FC Bayern",
+                    "githubVisitante": "matheuscanhizares",
                     "psnLocal": "TheRealJuanan",
                     "id": 62,
                     "psnVisitante": "mth_canhizares"
                 },
                 {
                     "equipoLocal": "FC Barcelona",
+                    "githubLocal": "abderra7",
                     "equipoVisitante": "Manchester United FC",
+                    "githubVisitante": "dpoquet",
                     "psnLocal": "abderra17",
                     "id": 63,
                     "psnVisitante": "poqueto"
                 },
                 {
                     "equipoLocal": "Paris Saint-Germain FC",
+                    "githubLocal": "Charly3Pins",
                     "equipoVisitante": "BV Borussia",
+                    "githubVisitante": "Nashbra",
                     "psnLocal": "Charly3Pins",
                     "id": 64,
                     "psnVisitante": "TheRealJuanan"
                 },
                 {
                     "equipoLocal": "Atlético de Madrid",
+                    "githubLocal": "VicenteT",
                     "equipoVisitante": "Juventus FC",
+                    "githubVisitante": "mpbrenlla",
                     "psnLocal": "Vincent_V",
                     "id": 65,
                     "psnVisitante": "mpbrenlla"
                 },
                 {
                     "equipoLocal": "Manchester City FC",
+                    "githubLocal": "hmguardado",
                     "equipoVisitante": "Real Madrid CF",
+                    "githubVisitante": "loisrilo",
                     "psnLocal": "pablopb92",
                     "id": 66,
                     "psnVisitante": "pablopb92"
@@ -521,42 +653,54 @@
             "Partidos": [
                 {
                     "equipoLocal": "FC Bayern",
+                    "githubLocal": "matheuscanhizares",
                     "equipoVisitante": "Arsenal FC",
+                    "githubVisitante": "davidga71",
                     "psnLocal": "mth_canhizares",
                     "id": 67,
                     "psnVisitante": "davidga71"
                 },
                 {
                     "equipoLocal": "Manchester United FC",
+                    "githubLocal": "dpoquet",
                     "equipoVisitante": "Chelsea FC",
+                    "githubVisitante": "pablopb3",
                     "psnLocal": "poqueto",
                     "id": 68,
                     "psnVisitante": "pablopb92"
                 },
                 {
                     "equipoLocal": "BV Borussia",
+                    "githubLocal": "Nashbra",
                     "equipoVisitante": "Athletic de Bilbao",
+                    "githubVisitante": "Pablo (no username)",
                     "psnLocal": "TheRealJuanan",
                     "id": 69,
                     "psnVisitante": "TheRealJuanan"
                 },
                 {
                     "equipoLocal": "Juventus FC",
+                    "githubLocal": "mpbrenlla",
                     "equipoVisitante": "FC Barcelona",
+                    "githubVisitante": "abderra7",
                     "psnLocal": "mpbrenlla",
                     "id": 70,
                     "psnVisitante": "abderra17"
                 },
                 {
                     "equipoLocal": "Real Madrid CF",
+                    "githubLocal": "loisrilo",
                     "equipoVisitante": "Paris Saint-Germain FC",
+                    "githubVisitante": "Charly3Pins",
                     "psnLocal": "pablopb92",
                     "id": 71,
                     "psnVisitante": "Charly3Pins"
                 },
                 {
                     "equipoLocal": "Manchester City FC",
+                    "githubLocal": "hmguardado",
                     "equipoVisitante": "Atlético de Madrid",
+                    "githubVisitante": "VicenteT",
                     "psnLocal": "pablopb92",
                     "id": 72,
                     "psnVisitante": "Vincent_V"
@@ -568,42 +712,54 @@
             "Partidos": [
                 {
                     "equipoLocal": "Manchester United FC",
+                    "githubLocal": "dpoquet",
                     "equipoVisitante": "Arsenal FC",
+                    "githubVisitante": "davidga71",
                     "psnLocal": "poqueto",
                     "id": 73,
                     "psnVisitante": "davidga71"
                 },
                 {
                     "equipoLocal": "BV Borussia",
+                    "githubLocal": "Nashbra",
                     "equipoVisitante": "FC Bayern",
+                    "githubVisitante": "matheuscanhizares",
                     "psnLocal": "TheRealJuanan",
                     "id": 74,
                     "psnVisitante": "mth_canhizares"
                 },
                 {
                     "equipoLocal": "Juventus FC",
+                    "githubLocal": "mpbrenlla",
                     "equipoVisitante": "Chelsea FC",
+                    "githubVisitante": "pablopb3",
                     "psnLocal": "mpbrenlla",
                     "id": 75,
                     "psnVisitante": "pablopb92"
                 },
                 {
                     "equipoLocal": "Real Madrid CF",
+                    "githubLocal": "loisrilo",
                     "equipoVisitante": "Athletic de Bilbao",
+                    "githubVisitante": "Pablo (no username)",
                     "psnLocal": "pablopb92",
                     "id": 76,
                     "psnVisitante": "TheRealJuanan"
                 },
                 {
                     "equipoLocal": "Manchester City FC",
+                    "githubLocal": "hmguardado",
                     "equipoVisitante": "FC Barcelona",
+                    "githubVisitante": "abderra7",
                     "psnLocal": "pablopb92",
                     "id": 77,
                     "psnVisitante": "abderra17"
                 },
                 {
                     "equipoLocal": "Atlético de Madrid",
+                    "githubLocal": "VicenteT",
                     "equipoVisitante": "Paris Saint-Germain FC",
+                    "githubVisitante": "Charly3Pins",
                     "psnLocal": "Vincent_V",
                     "id": 78,
                     "psnVisitante": "Charly3Pins"
@@ -615,42 +771,54 @@
             "Partidos": [
                 {
                     "equipoLocal": "BV Borussia",
+                    "githubLocal": "Nashbra",
                     "equipoVisitante": "Arsenal FC",
+                    "githubVisitante": "davidga71",
                     "psnLocal": "TheRealJuanan",
                     "id": 79,
                     "psnVisitante": "davidga71"
                 },
                 {
                     "equipoLocal": "Juventus FC",
+                    "githubLocal": "mpbrenlla",
                     "equipoVisitante": "Manchester United FC",
+                    "githubVisitante": "dpoquet",
                     "psnLocal": "mpbrenlla",
                     "id": 80,
                     "psnVisitante": "poqueto"
                 },
                 {
                     "equipoLocal": "Real Madrid CF",
+                    "githubLocal": "loisrilo",
                     "equipoVisitante": "FC Bayern",
+                    "githubVisitante": "matheuscanhizares",
                     "psnLocal": "pablopb92",
                     "id": 81,
                     "psnVisitante": "mth_canhizares"
                 },
                 {
                     "equipoLocal": "Manchester City FC",
+                    "githubLocal": "hmguardado",
                     "equipoVisitante": "Chelsea FC",
+                    "githubVisitante": "pablopb3",
                     "psnLocal": "pablopb92",
                     "id": 82,
                     "psnVisitante": "pablopb92"
                 },
                 {
                     "equipoLocal": "Atlético de Madrid",
+                    "githubLocal": "VicenteT",
                     "equipoVisitante": "Athletic de Bilbao",
+                    "githubVisitante": "Pablo (no username)",
                     "psnLocal": "Vincent_V",
                     "id": 83,
                     "psnVisitante": "TheRealJuanan"
                 },
                 {
                     "equipoLocal": "Paris Saint-Germain FC",
+                    "githubLocal": "Charly3Pins",
                     "equipoVisitante": "FC Barcelona",
+                    "githubVisitante": "abderra7",
                     "psnLocal": "Charly3Pins",
                     "id": 84,
                     "psnVisitante": "abderra17"
@@ -662,42 +830,54 @@
             "Partidos": [
                 {
                     "equipoLocal": "Juventus FC",
+                    "githubLocal": "mpbrenlla",
                     "equipoVisitante": "Arsenal FC",
+                    "githubVisitante": "davidga71",
                     "psnLocal": "mpbrenlla",
                     "id": 85,
                     "psnVisitante": "davidga71"
                 },
                 {
                     "equipoLocal": "Real Madrid CF",
+                    "githubLocal": "loisrilo",
                     "equipoVisitante": "BV Borussia",
+                    "githubVisitante": "Nashbra",
                     "psnLocal": "pablopb92",
                     "id": 86,
                     "psnVisitante": "TheRealJuanan"
                 },
                 {
                     "equipoLocal": "Manchester City FC",
+                    "githubLocal": "hmguardado",
                     "equipoVisitante": "Manchester United FC",
+                    "githubVisitante": "dpoquet",
                     "psnLocal": "pablopb92",
                     "id": 87,
                     "psnVisitante": "poqueto"
                 },
                 {
                     "equipoLocal": "Atlético de Madrid",
+                    "githubLocal": "VicenteT",
                     "equipoVisitante": "FC Bayern",
+                    "githubVisitante": "matheuscanhizares",
                     "psnLocal": "Vincent_V",
                     "id": 88,
                     "psnVisitante": "mth_canhizares"
                 },
                 {
                     "equipoLocal": "Paris Saint-Germain FC",
+                    "githubLocal": "Charly3Pins",
                     "equipoVisitante": "Chelsea FC",
+                    "githubVisitante": "pablopb3",
                     "psnLocal": "Charly3Pins",
                     "id": 89,
                     "psnVisitante": "pablopb92"
                 },
                 {
                     "equipoLocal": "FC Barcelona",
+                    "githubLocal": "abderra7",
                     "equipoVisitante": "Athletic de Bilbao",
+                    "githubVisitante": "Pablo (no username)",
                     "psnLocal": "abderra17",
                     "id": 90,
                     "psnVisitante": "TheRealJuanan"
@@ -709,42 +889,54 @@
             "Partidos": [
                 {
                     "equipoLocal": "Real Madrid CF",
+                    "githubLocal": "loisrilo",
                     "equipoVisitante": "Arsenal FC",
+                    "githubVisitante": "davidga71",
                     "psnLocal": "pablopb92",
                     "id": 91,
                     "psnVisitante": "davidga71"
                 },
                 {
                     "equipoLocal": "Manchester City FC",
+                    "githubLocal": "hmguardado",
                     "equipoVisitante": "Juventus FC",
+                    "githubVisitante": "mpbrenlla",
                     "psnLocal": "pablopb92",
                     "id": 92,
                     "psnVisitante": "mpbrenlla"
                 },
                 {
                     "equipoLocal": "Atlético de Madrid",
+                    "githubLocal": "VicenteT",
                     "equipoVisitante": "BV Borussia",
+                    "githubVisitante": "Nashbra",
                     "psnLocal": "Vincent_V",
                     "id": 93,
                     "psnVisitante": "TheRealJuanan"
                 },
                 {
                     "equipoLocal": "Paris Saint-Germain FC",
+                    "githubLocal": "Charly3Pins",
                     "equipoVisitante": "Manchester United FC",
+                    "githubVisitante": "dpoquet",
                     "psnLocal": "Charly3Pins",
                     "id": 94,
                     "psnVisitante": "poqueto"
                 },
                 {
                     "equipoLocal": "FC Barcelona",
+                    "githubLocal": "abderra7",
                     "equipoVisitante": "FC Bayern",
+                    "githubVisitante": "matheuscanhizares",
                     "psnLocal": "abderra17",
                     "id": 95,
                     "psnVisitante": "mth_canhizares"
                 },
                 {
                     "equipoLocal": "Athletic de Bilbao",
+                    "githubLocal": "Pablo (no username)",
                     "equipoVisitante": "Chelsea FC",
+                    "githubVisitante": "pablopb3",
                     "psnLocal": "TheRealJuanan",
                     "id": 96,
                     "psnVisitante": "pablopb92"
@@ -756,42 +948,54 @@
             "Partidos": [
                 {
                     "equipoLocal": "Manchester City FC",
+                    "githubLocal": "hmguardado",
                     "equipoVisitante": "Arsenal FC",
+                    "githubVisitante": "davidga71",
                     "psnLocal": "pablopb92",
                     "id": 97,
                     "psnVisitante": "davidga71"
                 },
                 {
                     "equipoLocal": "Atlético de Madrid",
+                    "githubLocal": "VicenteT",
                     "equipoVisitante": "Real Madrid CF",
+                    "githubVisitante": "loisrilo",
                     "psnLocal": "Vincent_V",
                     "id": 98,
                     "psnVisitante": "pablopb92"
                 },
                 {
                     "equipoLocal": "Paris Saint-Germain FC",
+                    "githubLocal": "Charly3Pins",
                     "equipoVisitante": "Juventus FC",
+                    "githubVisitante": "mpbrenlla",
                     "psnLocal": "Charly3Pins",
                     "id": 99,
                     "psnVisitante": "mpbrenlla"
                 },
                 {
                     "equipoLocal": "FC Barcelona",
+                    "githubLocal": "abderra7",
                     "equipoVisitante": "BV Borussia",
+                    "githubVisitante": "Nashbra",
                     "psnLocal": "abderra17",
                     "id": 100,
                     "psnVisitante": "TheRealJuanan"
                 },
                 {
                     "equipoLocal": "Athletic de Bilbao",
+                    "githubLocal": "Pablo (no username)",
                     "equipoVisitante": "Manchester United FC",
+                    "githubVisitante": "dpoquet",
                     "psnLocal": "TheRealJuanan",
                     "id": 101,
                     "psnVisitante": "poqueto"
                 },
                 {
                     "equipoLocal": "Chelsea FC",
+                    "githubLocal": "pablopb3",
                     "equipoVisitante": "FC Bayern",
+                    "githubVisitante": "matheuscanhizares",
                     "psnLocal": "pablopb92",
                     "id": 102,
                     "psnVisitante": "mth_canhizares"
@@ -803,42 +1007,54 @@
             "Partidos": [
                 {
                     "equipoLocal": "Atlético de Madrid",
+                    "githubLocal": "VicenteT",
                     "equipoVisitante": "Arsenal FC",
+                    "githubVisitante": "davidga71",
                     "psnLocal": "Vincent_V",
                     "id": 103,
                     "psnVisitante": "davidga71"
                 },
                 {
                     "equipoLocal": "Paris Saint-Germain FC",
+                    "githubLocal": "Charly3Pins",
                     "equipoVisitante": "Manchester City FC",
+                    "githubVisitante": "hmguardado",
                     "psnLocal": "Charly3Pins",
                     "id": 104,
                     "psnVisitante": "pablopb92"
                 },
                 {
                     "equipoLocal": "FC Barcelona",
+                    "githubLocal": "abderra7",
                     "equipoVisitante": "Real Madrid CF",
+                    "githubVisitante": "loisrilo",
                     "psnLocal": "abderra17",
                     "id": 105,
                     "psnVisitante": "pablopb92"
                 },
                 {
                     "equipoLocal": "Athletic de Bilbao",
+                    "githubLocal": "Pablo (no username)",
                     "equipoVisitante": "Juventus FC",
+                    "githubVisitante": "mpbrenlla",
                     "psnLocal": "TheRealJuanan",
                     "id": 106,
                     "psnVisitante": "mpbrenlla"
                 },
                 {
                     "equipoLocal": "Chelsea FC",
+                    "githubLocal": "pablopb3",
                     "equipoVisitante": "BV Borussia",
+                    "githubVisitante": "Nashbra",
                     "psnLocal": "pablopb92",
                     "id": 107,
                     "psnVisitante": "TheRealJuanan"
                 },
                 {
                     "equipoLocal": "FC Bayern",
+                    "githubLocal": "matheuscanhizares",
                     "equipoVisitante": "Manchester United FC",
+                    "githubVisitante": "dpoquet",
                     "psnLocal": "mth_canhizares",
                     "id": 108,
                     "psnVisitante": "poqueto"
@@ -850,42 +1066,54 @@
             "Partidos": [
                 {
                     "equipoLocal": "Paris Saint-Germain FC",
+                    "githubLocal": "Charly3Pins",
                     "equipoVisitante": "Arsenal FC",
+                    "githubVisitante": "davidga71",
                     "psnLocal": "Charly3Pins",
                     "id": 109,
                     "psnVisitante": "davidga71"
                 },
                 {
                     "equipoLocal": "FC Barcelona",
+                    "githubLocal": "abderra7",
                     "equipoVisitante": "Atlético de Madrid",
+                    "githubVisitante": "VicenteT",
                     "psnLocal": "abderra17",
                     "id": 110,
                     "psnVisitante": "Vincent_V"
                 },
                 {
                     "equipoLocal": "Athletic de Bilbao",
+                    "githubLocal": "Pablo (no username)",
                     "equipoVisitante": "Manchester City FC",
+                    "githubVisitante": "hmguardado",
                     "psnLocal": "TheRealJuanan",
                     "id": 111,
                     "psnVisitante": "pablopb92"
                 },
                 {
                     "equipoLocal": "Chelsea FC",
+                    "githubLocal": "pablopb3",
                     "equipoVisitante": "Real Madrid CF",
+                    "githubVisitante": "loisrilo",
                     "psnLocal": "pablopb92",
                     "id": 112,
                     "psnVisitante": "pablopb92"
                 },
                 {
                     "equipoLocal": "FC Bayern",
+                    "githubLocal": "matheuscanhizares",
                     "equipoVisitante": "Juventus FC",
+                    "githubVisitante": "mpbrenlla",
                     "psnLocal": "mth_canhizares",
                     "id": 113,
                     "psnVisitante": "mpbrenlla"
                 },
                 {
                     "equipoLocal": "Manchester United FC",
+                    "githubLocal": "dpoquet",
                     "equipoVisitante": "BV Borussia",
+                    "githubVisitante": "Nashbra",
                     "psnLocal": "poqueto",
                     "id": 114,
                     "psnVisitante": "TheRealJuanan"
@@ -897,42 +1125,54 @@
             "Partidos": [
                 {
                     "equipoLocal": "FC Barcelona",
+                    "githubLocal": "abderra7",
                     "equipoVisitante": "Arsenal FC",
+                    "githubVisitante": "davidga71",
                     "psnLocal": "abderra17",
                     "id": 115,
                     "psnVisitante": "davidga71"
                 },
                 {
                     "equipoLocal": "Athletic de Bilbao",
+                    "githubLocal": "Pablo (no username)",
                     "equipoVisitante": "Paris Saint-Germain FC",
+                    "githubVisitante": "Charly3Pins",
                     "psnLocal": "TheRealJuanan",
                     "id": 116,
                     "psnVisitante": "Charly3Pins"
                 },
                 {
                     "equipoLocal": "Chelsea FC",
+                    "githubLocal": "pablopb3",
                     "equipoVisitante": "Atlético de Madrid",
+                    "githubVisitante": "VicenteT",
                     "psnLocal": "pablopb92",
                     "id": 117,
                     "psnVisitante": "Vincent_V"
                 },
                 {
                     "equipoLocal": "FC Bayern",
+                    "githubLocal": "matheuscanhizares",
                     "equipoVisitante": "Manchester City FC",
+                    "githubVisitante": "hmguardado",
                     "psnLocal": "mth_canhizares",
                     "id": 118,
                     "psnVisitante": "pablopb92"
                 },
                 {
                     "equipoLocal": "Manchester United FC",
+                    "githubLocal": "dpoquet",
                     "equipoVisitante": "Real Madrid CF",
+                    "githubVisitante": "loisrilo",
                     "psnLocal": "poqueto",
                     "id": 119,
                     "psnVisitante": "pablopb92"
                 },
                 {
                     "equipoLocal": "BV Borussia",
+                    "githubLocal": "Nashbra",
                     "equipoVisitante": "Juventus FC",
+                    "githubVisitante": "mpbrenlla",
                     "psnLocal": "TheRealJuanan",
                     "id": 120,
                     "psnVisitante": "mpbrenlla"
@@ -944,42 +1184,54 @@
             "Partidos": [
                 {
                     "equipoLocal": "Athletic de Bilbao",
+                    "githubLocal": "Pablo (no username)",
                     "equipoVisitante": "Arsenal FC",
+                    "githubVisitante": "davidga71",
                     "psnLocal": "TheRealJuanan",
                     "id": 121,
                     "psnVisitante": "davidga71"
                 },
                 {
                     "equipoLocal": "Chelsea FC",
+                    "githubLocal": "pablopb3",
                     "equipoVisitante": "FC Barcelona",
+                    "githubVisitante": "abderra7",
                     "psnLocal": "pablopb92",
                     "id": 122,
                     "psnVisitante": "abderra17"
                 },
                 {
                     "equipoLocal": "FC Bayern",
+                    "githubLocal": "matheuscanhizares",
                     "equipoVisitante": "Paris Saint-Germain FC",
+                    "githubVisitante": "Charly3Pins",
                     "psnLocal": "mth_canhizares",
                     "id": 123,
                     "psnVisitante": "Charly3Pins"
                 },
                 {
                     "equipoLocal": "Manchester United FC",
+                    "githubLocal": "dpoquet",
                     "equipoVisitante": "Atlético de Madrid",
+                    "githubVisitante": "VicenteT",
                     "psnLocal": "poqueto",
                     "id": 124,
                     "psnVisitante": "Vincent_V"
                 },
                 {
                     "equipoLocal": "BV Borussia",
+                    "githubLocal": "Nashbra",
                     "equipoVisitante": "Manchester City FC",
+                    "githubVisitante": "hmguardado",
                     "psnLocal": "TheRealJuanan",
                     "id": 125,
                     "psnVisitante": "pablopb92"
                 },
                 {
                     "equipoLocal": "Juventus FC",
+                    "githubLocal": "mpbrenlla",
                     "equipoVisitante": "Real Madrid CF",
+                    "githubVisitante": "loisrilo",
                     "psnLocal": "mpbrenlla",
                     "id": 126,
                     "psnVisitante": "pablopb92"
@@ -991,42 +1243,54 @@
             "Partidos": [
                 {
                     "equipoLocal": "Chelsea FC",
+                    "githubLocal": "pablopb3",
                     "equipoVisitante": "Arsenal FC",
+                    "githubVisitante": "davidga71",
                     "psnLocal": "pablopb92",
                     "id": 127,
                     "psnVisitante": "davidga71"
                 },
                 {
                     "equipoLocal": "FC Bayern",
+                    "githubLocal": "matheuscanhizares",
                     "equipoVisitante": "Athletic de Bilbao",
+                    "githubVisitante": "Pablo (no username)",
                     "psnLocal": "mth_canhizares",
                     "id": 128,
                     "psnVisitante": "TheRealJuanan"
                 },
                 {
                     "equipoLocal": "Manchester United FC",
+                    "githubLocal": "dpoquet",
                     "equipoVisitante": "FC Barcelona",
+                    "githubVisitante": "abderra7",
                     "psnLocal": "poqueto",
                     "id": 129,
                     "psnVisitante": "abderra17"
                 },
                 {
                     "equipoLocal": "BV Borussia",
+                    "githubLocal": "Nashbra",
                     "equipoVisitante": "Paris Saint-Germain FC",
+                    "githubVisitante": "Charly3Pins",
                     "psnLocal": "TheRealJuanan",
                     "id": 130,
                     "psnVisitante": "Charly3Pins"
                 },
                 {
                     "equipoLocal": "Juventus FC",
+                    "githubLocal": "mpbrenlla",
                     "equipoVisitante": "Atlético de Madrid",
+                    "githubVisitante": "VicenteT",
                     "psnLocal": "mpbrenlla",
                     "id": 131,
                     "psnVisitante": "Vincent_V"
                 },
                 {
                     "equipoLocal": "Real Madrid CF",
+                    "githubLocal": "loisrilo",
                     "equipoVisitante": "Manchester City FC",
+                    "githubVisitante": "hmguardado",
                     "psnLocal": "pablopb92",
                     "id": 132,
                     "psnVisitante": "pablopb92"
