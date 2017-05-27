@@ -22,6 +22,28 @@
     "team": "Chelsea FC"
   },
   {
+    "played": 4,
+    "won": 2,
+    "drawn": 1,
+    "lost": 1,
+    "points": 7,
+    "goalFor": 8,
+    "goalAgainst": 8,
+    "goalDifference": 0,
+    "team": "Atlético de Madrid"
+  },
+  {
+    "played": 4,
+    "won": 1,
+    "drawn": 2,
+    "lost": 1,
+    "points": 5,
+    "goalFor": 5,
+    "goalAgainst": 5,
+    "goalDifference": 0,
+    "team": "BV Borussia"
+  },
+  {
     "played": 3,
     "won": 1,
     "drawn": 1,
@@ -31,6 +53,17 @@
     "goalAgainst": 2,
     "goalDifference": 4,
     "team": "Manchester United FC"
+  },
+  {
+    "played": 4,
+    "won": 1,
+    "drawn": 1,
+    "lost": 2,
+    "points": 4,
+    "goalFor": 6,
+    "goalAgainst": 6,
+    "goalDifference": 0,
+    "team": "Real Madrid CF"
   },
   {
     "played": 3,
@@ -49,32 +82,10 @@
     "drawn": 1,
     "lost": 1,
     "points": 4,
-    "goalFor": 6,
-    "goalAgainst": 7,
-    "goalDifference": -1,
-    "team": "Atlético de Madrid"
-  },
-  {
-    "played": 3,
-    "won": 1,
-    "drawn": 1,
-    "lost": 1,
-    "points": 4,
     "goalFor": 3,
     "goalAgainst": 5,
     "goalDifference": -2,
     "team": "Manchester City FC"
-  },
-  {
-    "played": 2,
-    "won": 1,
-    "drawn": 0,
-    "lost": 1,
-    "points": 3,
-    "goalFor": 4,
-    "goalAgainst": 3,
-    "goalDifference": 1,
-    "team": "Real Madrid CF"
   },
   {
     "played": 3,
@@ -85,7 +96,7 @@
     "goalFor": 3,
     "goalAgainst": 4,
     "goalDifference": -1,
-    "team": "BV Borussia"
+    "team": "Athletic de Bilbao"
   },
   {
     "played": 3,
@@ -97,17 +108,6 @@
     "goalAgainst": 5,
     "goalDifference": -3,
     "team": "Paris Saint-Germain FC"
-  },
-  {
-    "played": 1,
-    "won": 0,
-    "drawn": 1,
-    "lost": 0,
-    "points": 1,
-    "goalFor": 1,
-    "goalAgainst": 1,
-    "goalDifference": 0,
-    "team": "Athletic de Bilbao"
   },
   {
     "played": 3,
