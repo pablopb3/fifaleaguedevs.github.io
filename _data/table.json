@@ -1,13 +1,13 @@
 [
   {
-    "played": 3,
-    "won": 3,
+    "played": 4,
+    "won": 4,
     "drawn": 0,
     "lost": 0,
-    "points": 9,
-    "goalFor": 6,
-    "goalAgainst": 2,
-    "goalDifference": 4,
+    "points": 12,
+    "goalFor": 11,
+    "goalAgainst": 3,
+    "goalDifference": 8,
     "team": "FC Bayern"
   },
   {
@@ -33,17 +33,6 @@
     "team": "Manchester United FC"
   },
   {
-    "played": 2,
-    "won": 1,
-    "drawn": 1,
-    "lost": 0,
-    "points": 4,
-    "goalFor": 5,
-    "goalAgainst": 2,
-    "goalDifference": 3,
-    "team": "Atlético de Madrid"
-  },
-  {
     "played": 3,
     "won": 1,
     "drawn": 1,
@@ -53,6 +42,17 @@
     "goalAgainst": 2,
     "goalDifference": 0,
     "team": "Juventus FC"
+  },
+  {
+    "played": 3,
+    "won": 1,
+    "drawn": 1,
+    "lost": 1,
+    "points": 4,
+    "goalFor": 6,
+    "goalAgainst": 7,
+    "goalDifference": -1,
+    "team": "Atlético de Madrid"
   },
   {
     "played": 3,
