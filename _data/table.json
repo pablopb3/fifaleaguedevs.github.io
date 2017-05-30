@@ -38,32 +38,32 @@
     "drawn": 2,
     "lost": 1,
     "points": 5,
-    "goalFor": 5,
-    "goalAgainst": 5,
-    "goalDifference": 0,
-    "team": "BV Borussia"
-  },
-  {
-    "played": 3,
-    "won": 1,
-    "drawn": 1,
-    "lost": 1,
-    "points": 4,
-    "goalFor": 6,
-    "goalAgainst": 2,
+    "goalFor": 7,
+    "goalAgainst": 3,
     "goalDifference": 4,
     "team": "Manchester United FC"
   },
   {
     "played": 4,
     "won": 1,
-    "drawn": 1,
-    "lost": 2,
-    "points": 4,
-    "goalFor": 6,
+    "drawn": 2,
+    "lost": 1,
+    "points": 5,
+    "goalFor": 5,
+    "goalAgainst": 4,
+    "goalDifference": 1,
+    "team": "BV Borussia"
+  },
+  {
+    "played": 4,
+    "won": 1,
+    "drawn": 2,
+    "lost": 1,
+    "points": 5,
+    "goalFor": 4,
     "goalAgainst": 6,
-    "goalDifference": 0,
-    "team": "Real Madrid CF"
+    "goalDifference": -2,
+    "team": "Manchester City FC"
   },
   {
     "played": 3,
@@ -77,15 +77,15 @@
     "team": "Juventus FC"
   },
   {
-    "played": 3,
+    "played": 4,
     "won": 1,
     "drawn": 1,
-    "lost": 1,
+    "lost": 2,
     "points": 4,
-    "goalFor": 3,
-    "goalAgainst": 5,
-    "goalDifference": -2,
-    "team": "Manchester City FC"
+    "goalFor": 5,
+    "goalAgainst": 6,
+    "goalDifference": -1,
+    "team": "Real Madrid CF"
   },
   {
     "played": 3,
