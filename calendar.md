@@ -49,8 +49,8 @@ permalink: /calendar/
 <tbody>
     {% for match in round.Partidos %}
         <tr>
-            <td align="center">{{match.equipoLocal}} (<span style="color:#1756a9;">{{match.psnLocal}}</span>)</td>
-            <td align="center">{{match.equipoVisitante}} (<span style="color:#1756a9;">{{match.psnVisitante}}</span>)</td>
+            <td align="center">{{match.equipoLocal}} (<span style="color:#1756a9;">{{match.githubLocal}}</span>)</td>
+            <td align="center">{{match.equipoVisitante}} (<span style="color:#1756a9;">{{match.githubVisitante}}</span>)</td>
             <td align="center"><em>Match ID: {{match.id}}</em></td>
         </tr>
     {% endfor %}
